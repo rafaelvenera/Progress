@@ -1,3 +1,10 @@
+/*
+LISTA TODAS AS TABELAS QUE APARECEM DETERMINADO CAMPO.
+Alterar onde está banco. para o nome do banco de dados e "*pesquisar*" para o campo que deseja procurar
+Autor: Rafael Diego Venera
+Data: 01/2016
+*/
+
 output to "c:\banco.txt".
 
 def temp-table tt-lista no-undo 
