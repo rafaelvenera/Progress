@@ -1,3 +1,10 @@
+/*
+Encontra o widget-handler de determinado campo em tela.
+Sendo assim possível pegar seus atributos.
+Data: 08/2016
+Autor: Rafael Diego Venera
+*/
+
 define input  parameter c-widget-name  as char   no-undo.
 define input  parameter c-widget-type  as char   no-undo.
 define input  parameter h-start-widget as WIDGET-HANDLE no-undo.
